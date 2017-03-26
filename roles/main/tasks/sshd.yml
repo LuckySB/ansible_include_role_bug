@@ -1,0 +1,6 @@
+- debug:
+    msg: "include: sshd, host: {{ansible_hostname}}"
+
+- name: sshd role
+  include_role:
+    name: sshd

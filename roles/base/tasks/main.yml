@@ -1,0 +1,2 @@
+- debug:
+    msg: "This is role base, host: {{ansible_hostname}}"

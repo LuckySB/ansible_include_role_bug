@@ -1,0 +1,2 @@
+- debug:
+    msg: "This is role admin, host: {{ansible_hostname}}"
